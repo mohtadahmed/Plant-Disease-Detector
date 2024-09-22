@@ -120,8 +120,8 @@ class Disease extends HiveObject {
         break;
 
       default:
-        possibleCauses = "N/A";
-        possibleSolution = "N/A";
+        possibleCauses = "This is not a leaf";
+        possibleSolution = "Please provide a proper image";
         break;
     }
   }

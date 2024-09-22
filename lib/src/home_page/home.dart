@@ -80,7 +80,6 @@ class _HomeState extends State<Home> {
                 );
               } else {
                 // Display unsure message
-
               }
             },
           ),
@@ -116,17 +115,18 @@ class _HomeState extends State<Home> {
                 );
               } else {
                 // Display unsure message
-
               }
             },
           ),
         ],
       ),
       body: Container(
-        decoration: const BoxDecoration(
-          image: DecorationImage(
-              image: AssetImage('assets/images/bg.jpg'), fit: BoxFit.cover),
-        ),
+        color: Colors.white,
+        // decoration: const BoxDecoration(
+
+        //   image: DecorationImage(
+        //       image: AssetImage('assets/images/bg.jpg'), fit: BoxFit.cover),
+        // ),
         child: CustomScrollView(
           slivers: [
             GreetingSection(size.height * 0.2),

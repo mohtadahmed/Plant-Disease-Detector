@@ -1,0 +1,12 @@
+sq.flutter.tflite-jetified-window-1.0.0-beta04-0 C:\Users\hp\.gradle\caches\transforms-3\543f92f8826f5df1de2b78bee7853a18\transformed\jetified-window-1.0.0-beta04\res
+sq.flutter.tflite-core-1.6.0-1 C:\Users\hp\.gradle\caches\transforms-3\6597e26937a6b7ac7c14feab5c473f85\transformed\core-1.6.0\res
+sq.flutter.tflite-jetified-annotation-experimental-1.1.0-2 C:\Users\hp\.gradle\caches\transforms-3\7bfd9cdfd5d221e29dce1401644606da\transformed\jetified-annotation-experimental-1.1.0\res
+sq.flutter.tflite-jetified-window-java-1.0.0-beta04-3 C:\Users\hp\.gradle\caches\transforms-3\dc6f5b890a4d89afea675a9dfd8329c3\transformed\jetified-window-java-1.0.0-beta04\res
+sq.flutter.tflite-main-4 C:\Users\hp\AppData\Local\Pub\Cache\hosted\pub.dev\tflite-1.1.2\android\src\main\res
+sq.flutter.tflite-release-5 C:\Users\hp\AppData\Local\Pub\Cache\hosted\pub.dev\tflite-1.1.2\android\src\release\res
+sq.flutter.tflite-pngs-6 D:\newFlutterProject\Plant-Disease-Detector\build\tflite\generated\res\pngs\release
+sq.flutter.tflite-resValues-7 D:\newFlutterProject\Plant-Disease-Detector\build\tflite\generated\res\resValues\release
+sq.flutter.tflite-rs-8 D:\newFlutterProject\Plant-Disease-Detector\build\tflite\generated\res\rs\release
+sq.flutter.tflite-mergeReleaseResources-9 D:\newFlutterProject\Plant-Disease-Detector\build\tflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+sq.flutter.tflite-mergeReleaseResources-10 D:\newFlutterProject\Plant-Disease-Detector\build\tflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+sq.flutter.tflite-merged_res-11 D:\newFlutterProject\Plant-Disease-Detector\build\tflite\intermediates\merged_res\release
